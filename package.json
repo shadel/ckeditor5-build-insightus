@@ -87,5 +87,8 @@
     "hooks": {
       "pre-commit": "lint-staged"
     }
+  },
+  "dependencies": {
+    "@shadel/ckeditor5-video": "git+https://git@github.com/shadel/ckeditor5-video.git"
   }
 }
