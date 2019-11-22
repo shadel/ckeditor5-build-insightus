@@ -91,6 +91,11 @@ ClassicEditor.defaultConfig = {
 			'imageTextAlternative'
 		]
 	},
+	video: {
+		upload: {
+			types: ['avi', 'mp4']
+		}
+	},
 	table: {
 		contentToolbar: [
 			'tableColumn',
