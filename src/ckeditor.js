@@ -93,7 +93,7 @@ ClassicEditor.defaultConfig = {
 	},
 	video: {
 		upload: {
-			types: ['avi', 'mp4']
+			types: [ 'avi', 'mp4' ]
 		}
 	},
 	table: {
