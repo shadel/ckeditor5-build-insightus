@@ -89,5 +89,7 @@
       "pre-commit": "lint-staged"
     }
   },
-  "dependencies": {}
+  "dependencies": {
+    "@ckeditor/ckeditor5-mention": "^25.0.0"
+  }
 }
