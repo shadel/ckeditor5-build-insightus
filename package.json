@@ -90,6 +90,6 @@
     }
   },
   "dependencies": {
-    "@ckeditor/ckeditor5-mention": "^25.0.0"
+    "@ckeditor/ckeditor5-mention": "^15.0.0"
   }
 }
